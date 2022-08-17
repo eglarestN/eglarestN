@@ -33,14 +33,20 @@
 <code><img title="sql" alt="sql" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></code>
 
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/emir-yıldırım-145bb8195/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/emir-yıldırım-145bb8195/" height="30" width="40" /></a>
-</p>
-<p align="left">
-<a href="https://www.linkedin.com/in/emir-yıldırım-145bb8195/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/emir-yıldırım-145bb8195/" height="30" width="40" /></a>
-</p>
+<h2>:busts_in_silhouette: How to reach me</h2>
+<a href="https://github.com/eglarestN">
+    <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/eglarestN?style=social&label=@eglarestN">
+</a>
+<a href="https://twitter.com/emryldrm99">
+    <img alt="Link to my Twitter" src="https://img.shields.io/twitter/follow/emryldrm99?style=social&label=@emryldrm99">
+</a>
+<a href="https://www.instagram.com/emryldrm99">
+    <img alt="link to my Instagram" src="https://img.shields.io/static/v1?label&message=@emryldrm99&color=7E3ACE&style=flat&logo=instagram&logoColor=whitesmoke" />
+</a>
+<a href="mailto:emir67118@gmail.com">
+    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=emir67118@gmail.com&color=whitesmoke&style=flat&logo=gmail" />
+</a>
+</br>
 
 <div width="50%">
 <img width="80%" src="https://activity-graph.herokuapp.com/graph?username=eglarestN&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"></div>
