@@ -8,6 +8,10 @@
   <details>
   <summary align="center">GitHub Stats</summary>
 
-  <p align="center">&nbsp;<img src="https://github-profile-trophy.vercel.app/?username=eglarestN&row=2&column=4&no-frame=true&margin-w=7&margin-h=7" alt="eglarestN" /></p>
+  <p align="center">&nbsp;<img src="https://github-profile-trophy.vercel.app/?username=eglarestN&row=2&column=4&no-frame=true&margin-w=7&margin-h=7" alt="eglarestN"</p>
+ 
+ </details>
   
+  <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=eglarestN&show_icons=true&locale=en&hide_border=true&theme=tokyonight" alt="eglarestN" /></p>
+ 
 
