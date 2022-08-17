@@ -19,4 +19,5 @@
 
   <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eglarestN&layout=compact&hide_border=true&theme=tokyonight" alt="eglarestN" /></p>
 
-  <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=eglarestN&show_icons=true&locale=en&hide_border=true&theme=tokyonight" alt="eglarestN" /></p>
+
+  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=eglarestN&hide_border=true&theme=tokyonight" alt="eglarestN" /></p>
