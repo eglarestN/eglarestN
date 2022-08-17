@@ -4,4 +4,10 @@
 
 <p align="center">👨‍💻 All of my projects are available at https://github.com/eglarestN?tab=repositories </p>
  <p align="center">🌱 I’m currently learning python</p>
+ 
+  <details>
+  <summary align="center">GitHub Stats</summary>
+
+  <p align="center">&nbsp;<img src="https://github-profile-trophy.vercel.app/?username=eglarestN&row=2&column=4&no-frame=true&margin-w=7&margin-h=7" alt="eglarestN" /></p>
+  
 
