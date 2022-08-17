@@ -26,6 +26,12 @@
 
   <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=eglarestN&hide_border=true&theme=tokyonight" alt="eglarestN" /></p>
 
+<h2>:bulb: Languages & Frameworks</h2>
+<code><img title="Python" alt="python" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
+<code><img title="C" alt="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></code>
+<code><img title="C++" alt="C++" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c++/c++-original.svg" /></code>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
