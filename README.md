@@ -31,7 +31,7 @@
 <code><img title="C" alt="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></code>
 <code><img title="C++" alt="C++" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /></code>
 
-<code><img title="sql" alt="sql" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" /></code>
+<code><img title="sql" alt="sql" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></code>
 
 
 
