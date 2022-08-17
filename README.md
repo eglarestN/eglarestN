@@ -29,4 +29,4 @@
 </p>
 
 <div width="50%">
-<img width="80%" src="https://activity-graph.herokuapp.com/graph?username=eglarestN&bg_color=000000&color=008000&line=5BCDEC&point=FFFFFF&hide_border=true"></div>
+<img width="80%" src="https://activity-graph.herokuapp.com/graph?username=eglarestN&bg_color=000000&color=008000&line=008000&point=00FFFF&hide_border=true"></div>
