@@ -1,10 +1,10 @@
-<p align="center">
-  <img src="https://store.donanimhaber.com/3e/d6/8e/3ed68e75ed7f09c01bf743849e9cf000.gif" height="230"/>
-</p>
-<hr>
+div id="top"></div>
+<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/eglarestN/eglarestN/blob/main/assets/header.png"></div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=1000&lines=Hi%F0%9F%91%8B%2C+I'm+Emir)](https://github.com/eglarestN)
-<h3 align="center">Cyber Security</h3>
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Emir;Computer+Engineering+Student;Cyber+Security;+%3C3;function+findQuestion(42)" alt="Computer Engineering Student, Cyber Security"></a>
+</div>
+
 <h3 align="center">Welcome to the my repo.</h3>
 
 <p align="center">👨‍💻 All of my projects are available at https://github.com/eglarestN?tab=repositories </p>
