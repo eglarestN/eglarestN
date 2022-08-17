@@ -18,6 +18,9 @@
   <p align="center"><img src="https://komarev.com/ghpvc/?username=eglarestN&label=Profile%20views&color=0e75b6&style=flat" alt="eglarestN" /></p>
 
   <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eglarestN&layout=compact&hide_border=true&theme=tokyonight" alt="eglarestN" /></p>
+  
+  <div width="50%">
+<img width="80%" src="https://activity-graph.herokuapp.com/graph?username=eglarestN&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"></div>
 
 
   <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=eglarestN&hide_border=true&theme=tokyonight" alt="eglarestN" /></p>
