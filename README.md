@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://store.donanimhaber.com/3e/d6/8e/3ed68e75ed7f09c01bf743849e9cf000.gif" height="230"/>
+</p>
+<hr>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=1000&lines=Hi%F0%9F%91%8B%2C+I'm+Emir)](https://github.com/eglarestN)
 <h3 align="center">Cyber Security</h3>
 <h3 align="center">Welcome to the my repo.</h3>
