@@ -35,7 +35,7 @@
 <div width="50%">
 <img width="80%" src="https://activity-graph.herokuapp.com/graph?username=eglarestN&bg_color=000000&color=008000&line=008000&point=00FFFF&hide_border=true"></div>
 
-<img alt="github contribution snake animation" src="https://github.com/Carol42/Carol42/blob/output/github-contribution-grid-snake.svg">
+<img alt="github contribution snake animation" src="https://github.com/eglarestN/eglarestN/blob/output/github-contribution-grid-snake.svg">
 
 <h2>:book: Guestbook</h2>
 <p>Leave a cool message for me or just say you passed by <a href="https://github.com/eglarestN/eglarestN/issues/new?template=guestbook-entry.md">here</a>!</p>
